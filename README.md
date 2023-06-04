@@ -5,4 +5,5 @@ Andrew Ng and Isa Fulford's released great course called ["Building Systems with
 I've followed on-screen instructions to re-create their practical Jupyter notebooks and then adapted the code to run against Azure OpenAI service, as it has slightly different syntax in comparison to the original OpenAI endpoints:
 1. Language Models, the Chat Format and Tokens;
 2. Classification;
-3. 
+3. Moderation;
+4. 
