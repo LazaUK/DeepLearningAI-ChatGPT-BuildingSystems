@@ -6,4 +6,5 @@ I've followed on-screen instructions to re-create their practical Jupyter notebo
 1. Language Models, the Chat Format and Tokens;
 2. Classification;
 3. Moderation;
-4. 
+4. Chain of Thoughts;
+5. 
