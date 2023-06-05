@@ -7,4 +7,8 @@ I've followed on-screen instructions to re-create their practical Jupyter notebo
 2. Classification;
 3. Moderation;
 4. Chain of Thoughts;
-5. 
+5. Chaining Prompts;
+6. Check Outputs;
+7. Build an End-to-End System;
+8. Evaluation - Part 1;
+9. Evaluation - Part 2.
